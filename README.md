@@ -1,1 +1,3 @@
-# ExplorationTestDifferentImages
+# ExplorationTest
+
+Testbed for SE.
